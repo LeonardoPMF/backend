@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "nome": "Prod A",
+      "validade": "2024-06-07T00:30:49.193Z",
+      "precoProduto": 900,
+      "id": 1
+    }
+  ]
+}
